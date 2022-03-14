@@ -1,0 +1,12 @@
+body{
+background:preeyakorn.jpg;
+}
+
+hr{
+/* background-color:white; */
+border-style: none;
+border-top-style: dotted;
+border-color: white;
+border-width: 4px;
+width: 50%
+}
